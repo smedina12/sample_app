@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'bootstrap-sass'
+gem 'carrierwave'
 gem 'puma'
 gem 'bcrypt',               '3.1.7'
 gem 'thin'
